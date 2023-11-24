@@ -1,0 +1,1 @@
+cl65 -t nes -C nes.cfg $1.s -o $1.nes && fceux $1.nes
